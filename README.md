@@ -12,7 +12,7 @@ TikTok Accounts Creator is a powerful tool designed for automatic TikTok account
 - Accepts E-mail/SMS: Supports verification via both e-mail and SMS.
 - Mobile API: Fully compatible with both Android and iOS devices.
 - Works on All Devices: Cross-device functionality ensures compatibility.
-- Contact: For more information, contact [WHI3per](https://t.me/WHI3per).
+- Contact: For more information, contact [WHI3PER](https://t.me/WHI3PER).
 
 ---
 
@@ -30,7 +30,7 @@ TikTok 账号创建工具是一款强大的自动化工具，旨在自动创建 
 - 支持邮箱/短信验证：支持通过邮箱和短信进行验证。
 - 移动 API：完全兼容安卓和 iOS 设备。
 - 兼容所有设备：跨设备功能，确保兼容性。
-- 联系：[WHI3per](https://t.me/WHI3per)获取更多信息。
+- 联系：[WHI3PER](https://t.me/WHI3PER)获取更多信息。
 
 ---
 
@@ -48,4 +48,4 @@ TikTok Accounts Creator — это мощный инструмент для ав
 - Поддержка электронной почты/SMS: Поддерживает проверку как через электронную почту, так и через SMS.
 - Мобильный API: Полностью совместим с устройствами Android и iOS.
 - Работает на всех устройствах: Функциональность на различных устройствах.
-- Контакт: Для получения дополнительной информации свяжитесь с [WHI3per](https://t.me/WHI3per).
+- Контакт: Для получения дополнительной информации свяжитесь с [WHI3PER](https://t.me/WHI3PER).
