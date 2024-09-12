@@ -1,5 +1,4 @@
 # TikTok-Account-Creator
-
 ## Overview
 TikTok Accounts Creator is a powerful tool designed for automatic TikTok account creation with full device registration, support for proxies, and all necessary algorithms for smooth account functionality.
 
